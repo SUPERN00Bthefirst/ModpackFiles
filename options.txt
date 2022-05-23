@@ -1,0 +1,35 @@
+version:2865
+autoJump:true
+autoSuggestions:true
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+enableVsync:false
+entityShadows:true
+forceUnicodeFont:false
+bobView:true
+toggleCrouch:true
+toggleSprint:false
+darkMojangStudiosBackground:false
+hideLightningFlashes:false
+fov:-0.25
+gamma:0.0
+renderDistance:7
+simulationDistance:7
+entityDistanceScaling:0.5
+guiScale:3
+maxFps:260
+resourcePacks:["vanilla","Fabric Mods","programer_art","file/legacy-potions.zip","file/lecacy-console-click.zip","file/Base Pack","file/Legacy Edition","file/AutoGamma.zip","file/catplusdog.zip","file/classicgravel.zip","file/consoleglasspanes.zip"]
+incompatibleResourcePacks:["file/legacy-potions.zip","file/lecacy-console-click.zip","file/Base Pack","file/Legacy Edition","file/AutoGamma.zip","file/catplusdog.zip","file/classicgravel.zip","file/consoleglasspanes.zip"]
+heldItemTooltips:true
+mipmapLevels:0
+attackIndicator:0
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+hideMatchedNames:true
+joinedFirstServer:true
+hideBundleTutorial:true
+syncChunkWrites:true
+showAutosaveIndicator:true
+allowServerListing:true
